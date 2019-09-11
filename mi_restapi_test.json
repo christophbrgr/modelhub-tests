@@ -6,7 +6,7 @@
     },
     "flair":{
         "type": "[application/gzip]",
-        "fileurl": "http://anythingontheweb.url/dogbrain.nii.gz"
+        "fileurl": "notaurl/"
     },
     "img1":{
         "type":"[image/png]",
