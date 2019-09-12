@@ -1,11 +1,11 @@
 {
     "format":["application/json"],
     "t1":{
-        "type": "[application/gzip]",
+        "type": "[application/nii-gzip]",
         "fileurl": "this/path/here"
     },
     "flair":{
-        "type": "[application/gzip]",
+        "type": "[application/nii-gzip]",
         "fileurl": "notaurl/"
     },
     "img1":{
@@ -13,7 +13,7 @@
         "fileurl": "/sample_data/testimage_ramp_4x2.png"
     },
     "img2":{
-        "type":"[image/jpg]",
+        "type":"[image/jepg]",
         "fileurl": "/sample_data/testimage_ramp_4x2.jpg"
     }
 }
